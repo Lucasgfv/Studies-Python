@@ -1,5 +1,3 @@
-#Minha resolução feita das atividades exigidas do Curso de PYthon do canal do youtube Curso em Video apresentado pelo prfessor Gustavo Guanabara
-#aredondar qualquer numero real
 import math
 import random
 n = int(input('Digite um numero: '))
